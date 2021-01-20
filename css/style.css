@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.panda-slider{
+    margin-top: 100px;
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.clock-area{
+    margin-top: 100px;
+}
+.gutter-area{
+    border-radius: 1em;
+}
+.shows-area{
+    margin-top: 100px;
+}
+.single-panda-card{
+    border: 0;
+}
+.single-panda-card-footer{
+    border: 0;
+    background-color: white;
+    padding-bottom: 30px;
+}
+.Bag-area{
+    margin-top: 100px;
+}
+.catagories img{
+    width: 100px;
+}
+.let-area{
+    margin-top: 100px;
+    height: 300px;
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.let-area input{
+    width: 100%;
+    padding: 10px;
+}
+.last-btn{
+    margin-top: 10px;
+}
